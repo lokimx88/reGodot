@@ -1,7 +1,8 @@
 # reGodot
 another port of godot
 
-this project is only for those who are funs of C/C++
+this project is only for those who are funs of C/C++ <br>
+Only Source codes are avaiable
 
 features:
 1. base on 3.4.3-stable
@@ -14,4 +15,4 @@ features:
 todo:
 1. Currently, buitin Chinese font is shown as nonsense symbol<br>
    godot v4 will use icu4c.  I hope it can load fonts more efficiently.
-3. others
+2. others
