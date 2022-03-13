@@ -12,6 +12,6 @@ features:
 6. ugly samples using C++ are in "platform/settings.cpp"
 
 todo:
-1. Currently, buitin Chinese font is shown as nonsense symbol
+1. Currently, buitin Chinese font is shown as nonsense symbol<br>
    godot v4 will use icu4c.  I hope it can load fonts more efficiently.
 3. others
