@@ -13,4 +13,5 @@ features:
 
 todo:
 1. Currently, buitin Chinese font is shown as nonsense symbol
+   godot v4 will use icu4c.  I hope it can load fonts more efficiently.
 3. others
